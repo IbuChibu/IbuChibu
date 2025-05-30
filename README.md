@@ -29,7 +29,7 @@
 ### 📚 Currently Learning
 
 - MLOps & ML system design (Databricks, Full Stack Deep Learning)
-- GenAI & LLMOps (Google, Hugging Face, LangChain)
+- GenAI & LLMOps (Google Gemini, Hugging Face, LangChain, OpenAI API)
 - Applied AI for impact (climate tech, education, accessibility)
 - Arabic, Islamic studies, and AI ethics
 
