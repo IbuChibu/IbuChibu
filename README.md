@@ -65,7 +65,7 @@ Example projects in the pipeline:
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](www.linkedin.com/in/ebrahim-dawood-akhoon)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ebrahim-dawood-akhoon)  
 - 📝 [Blog](https://yourblog.com) (Coming soon!)  
 - ✉️ Reach out for collaborations, mentoring, or a chat about AI, faith, or science.
 
