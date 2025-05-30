@@ -35,12 +35,20 @@
 
 ---
 
-### 🚀 Projects
+### 🚧 This GitHub is Under Construction 🚧
 
+I'm currently working on building a portfolio of meaningful projects.  
+Expect updates soon on:
+
+- ⚡ Clean energy monitoring & fault detection
+- 🤖 GenAI tools for real-world impact
+- 🧠 Applied AI ethics in development contexts
+- 🕋 AI + Islamic studies intersections
+
+Example projects in the pipeline:
 - 🔬 **Biodigester Venting Classifier** — ML model using pressure sensor data  
 - ⚡ **Solar Fault Detector** — Early fault detection system for solar panels  
 - 💬 **LLM-powered Biogas Assistant** — QA bot for remote biodigester support  
-- 🤖 **Hackathon Builds** — Real-time AI solutions (Edge AI, Twilio, Arduino, etc.)
 
 > More projects coming soon — stay tuned!
 
