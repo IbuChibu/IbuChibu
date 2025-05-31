@@ -19,7 +19,7 @@
 ### 🔧 Tech Stack & Tools
 
 - **Languages:** Python, SQL, Bash
-- **Data/ML:** pandas, scikit-learn, XGBoost, PyTorch, TensorFlow
+- **Data/ML:** pandas, scikit-learn, XGBoost, PyTorch, TensorFlow, Databricks
 - **Cloud & DevOps:** Google Cloud, Docker, Git, dbt (learning MLOps!)
 - **Dashboards & Apps:** Streamlit, Plotly, FastAPI
 - **Other:** VS Code, Notion, GitHub Actions, Jupyter
