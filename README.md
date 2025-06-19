@@ -12,7 +12,7 @@
 - 🌞 Working on real-world applications of AI/ML in renewable energy
 - 🤖 Learning MLOps, software engineering, and GenAI
 - 🕊️ Exploring AI ethics and Islamic intellectual history
-- 📍 Based in London, cycling to Brighton this summer 🚴‍♂️
+- 📍 Based in London
 
 ---
 
