@@ -54,7 +54,7 @@ Example projects in the pipeline:
 
 ---
 
-### 🧭 Goals for 2025
+### 🧭 Goals for 2026
 
 - Build and deploy 2-3 production-ready AI/ML projects  
 - Launch an educational blog about data, ethics, and climate tech  
